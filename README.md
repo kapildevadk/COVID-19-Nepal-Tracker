@@ -1,5 +1,5 @@
 # COVID-19-Nepal-Tracker
-COVID-19-Nepal=Tracker: CoronaVirus Disease or Covid-19 Updates from Nepal, contains total identified cases, dealths and recovery district wise.
+COVID-19-Nepal-Tracker: CoronaVirus Disease or Covid-19 Updates from Nepal, contains total identified cases, dealths and recovery district wise.
 
 Data are related to COVID19 in Nepal, collected through MOHP site and various other publications.
 
