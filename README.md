@@ -19,7 +19,7 @@ Every attempt is done in making data accurate. If you find any inconsistency, pl
 ## Maintainer
 [Kapildev Adhikari](https://github.com/kapildevadk)
 
-### datalink 
+### API & links
 [Nepal Corona Open Data API](https://documenter.getpostman.com/view/9992373/SzS7PkXr?version=latest#intro)
 [API: District link](https://data.nepalcorona.info/api/v1/districts)
 [API: Municipals link](https://data.nepalcorona.info/api/v1/municipals)
