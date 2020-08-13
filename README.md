@@ -10,6 +10,12 @@ The data is collected from MOHP, publicly available information and data API sou
 The data in csv/xlsx can be visualized by geopandas, Qgis, ArcGIS, R,...
 Every attempt is done in making data accurate. If you find any inconsistency, please report.
 
+## Requirements
+1. [Anaconda Navigator](https://www.anaconda.com/) or
+2. [Python](https://www.python.org) ;
+   "pip install pandas" &
+   "pip install spyder" In Windows command prompt
+
 ## Maintainer
 [Kapildev Adhikari](https://github.com/kapildevadk)
 
@@ -24,3 +30,4 @@ Every attempt is done in making data accurate. If you find any inconsistency, pl
 
 ### Contribution
 If you're new to contributing to Open Source on Github, [this guide](https://opensource.guide/how-to-contribute/) can help you get started. Please check out the contribution guide for more details on how issues and pull requests work.
+
