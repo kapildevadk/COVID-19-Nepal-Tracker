@@ -7,7 +7,7 @@ The data is collected from MOHP, publicly available information and data API sou
 3. Nepal_Covid-19_Cases_by-District.py : For Covid-19 cases by Districts of Nepal with Lat & Lon.
 4. Nepal_Covid-19_Cases_by-Municipality.py : For Covid-19 cases by Local levels (mun) of Nepal with Lat & Lon.
 
-The data in csv/xlsx can be visualized by Geopandas, Qgis, ArcGIS, R, Power BI, Tableau,... 
+The data in csv/xlsx can be visualized by [Geopandas](https://geopandas.org/), [Qgis](https://qgis.org/en/site/), [ArcGIS](https://desktop.arcgis.com/en/), [R](https://www.r-project.org/), [Power BI](https://powerbi.microsoft.com/en-us/), [Tableau](https://www.tableau.com/products/desktop), (Matplotlib)[https://matplotlib.org/]... 
 Every attempt is done in making data accurate. If you find any inconsistency, please report.
 
 ## Requirements
