@@ -22,11 +22,17 @@ Every attempt is done in making data accurate. If you find any inconsistency, pl
 
 ### API & links
 [Nepal Corona Open Data API](https://documenter.getpostman.com/view/9992373/SzS7PkXr?version=latest#intro)
+
 [API: District link](https://data.nepalcorona.info/api/v1/districts)
+
 [API: Municipals link](https://data.nepalcorona.info/api/v1/municipals)
+
 [API: COVID-19 Nepal](https://data.nepalcorona.info/api/v1/covid)
+
 [API: MOHP](https://covid19.mohp.gov.np/covid/api/confirmedcases)
+
 [Wikipedia: COVID-19 pandemic in Nepal](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Nepal)
+
 [Public API Contribution](https://github.com/postmanlabs/postman-code-generators)
 
 
