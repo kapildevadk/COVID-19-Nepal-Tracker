@@ -13,9 +13,13 @@ Every attempt is done in making data accurate. If you find any inconsistency, pl
 ## Requirements
 1. Download and install [Anaconda packages](https://www.anaconda.com/) or 
 2. Download and install [Python](https://www.python.org), 
-   and install packages through [pip install](https://phoenixnap.com/kb/install-pip-windows) : 
-   "[pip install pandas](https://pypi.org/project/pandas/)" &
-   "[pip install spyder](https://pypi.org/project/spyder/)" In Windows command prompt.
+   and install scientific [Pandas](https://pandas.pydata.org/) package through [pip](https://phoenixnap.com/kb/install-pip-windows) : 
+   `pip install pandas` in Windows command prompt.
+3. Run the scripts using [Python IDLE](https://docs.python.org/3/library/idle.html), or 
+[Spyder](https://pypi.org/project/spyder/), or 
+[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Running%20Code.html), or
+[PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows), or
+[VS Code](https://code.visualstudio.com/docs/languages/python).
 
 ## Maintainer
 [Kapildev Adhikari](https://github.com/kapildevadk)
