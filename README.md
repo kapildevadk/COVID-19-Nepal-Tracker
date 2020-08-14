@@ -11,10 +11,11 @@ The data in csv/xlsx can be visualized by [Geopandas](https://geopandas.org/), [
 Every attempt is done in making data accurate. If you find any inconsistency, please report.
 
 ## Requirements
-1. [Anaconda Navigator](https://www.anaconda.com/) or
-2. [Python](https://www.python.org) ;
+1. Download and install [Anaconda packages](https://www.anaconda.com/) or 
+2. Download and install [Python](https://www.python.org) 
+   and install packages through [pip install](https://phoenixnap.com/kb/install-pip-windows)
    "pip install pandas" &
-   "pip install spyder" In Windows command prompt
+   "pip install spyder" In Windows command prompt.
 
 ## Maintainer
 [Kapildev Adhikari](https://github.com/kapildevadk)
